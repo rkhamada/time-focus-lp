@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    color: black;
+}
+
+#time {
+    font-size: 8rem;
+}
+
+h1 {
+    margin-bottom: 3rem;
+}
+
+h2 {
+    margin-bottom: 0.5rem;
+    opacity: 0.8;
+}
+
+#resetButton {
+    padding: 8px 25px;
+    text-transform: uppercase;
+    font-family: 'Quicksand', sans-serif;
+    background-color: white; 
+    border-radius: 10px;
+    border-width: 0px;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+#resetButton:hover {
+    background-color: gray;
+}
+
+@media ( max-width: 700px )
+{
+    #time { 
+        font-size: 6rem;
+    }
+}
