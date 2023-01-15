@@ -1,0 +1,13 @@
+<svg id="Spotify_Logo" data-name="Spotify Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.811" height="32.811" viewBox="0 0 32.811 32.811">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="32.811" height="32.811" fill="#fafafa"/>
+    </clipPath>
+  </defs>
+  <g id="Group_23" data-name="Group 23" clip-path="url(#clip-path)">
+    <path id="Path_15" data-name="Path 15" d="M16.405,32.811A16.405,16.405,0,1,1,32.811,16.405,16.419,16.419,0,0,1,16.405,32.811m0-30.521A14.116,14.116,0,1,0,30.521,16.405,14.133,14.133,0,0,0,16.405,2.289" fill="#fafafa"/>
+    <path id="Path_16" data-name="Path 16" d="M22.365,12.089a1.246,1.246,0,0,1-.671-.214A16.248,16.248,0,0,0,6.127,9.968a1.141,1.141,0,1,1-.839-2.121,18.57,18.57,0,0,1,17.748,2.182,1.133,1.133,0,0,1-.671,2.06" transform="translate(2.403 3.431)" fill="#fafafa"/>
+    <path id="Path_17" data-name="Path 17" d="M19.248,14.473a1.246,1.246,0,0,1-.671-.214A11.6,11.6,0,0,0,7.5,12.9a1.141,1.141,0,0,1-.839-2.121A13.856,13.856,0,0,1,19.9,12.413a1.133,1.133,0,0,1-.656,2.06" transform="translate(3.124 5.152)" fill="#fafafa"/>
+    <path id="Path_18" data-name="Path 18" d="M17.1,17.06a1.246,1.246,0,0,1-.671-.214,8.469,8.469,0,0,0-8.042-.992,1.141,1.141,0,1,1-.839-2.121,10.672,10.672,0,0,1,10.209,1.251,1.146,1.146,0,0,1,.259,1.6,1.082,1.082,0,0,1-.916.473" transform="translate(3.592 6.823)" fill="#fafafa"/>
+  </g>
+</svg>
