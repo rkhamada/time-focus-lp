@@ -22,7 +22,7 @@ header {
     font-size: 3rem;
 }
 .toggle {
-    background: url('/public/img/icon/icon-bars-white.svg');
+    background: url('../public/img/icon/icon-bars-white.svg');
     filter: invert(1);
     background-repeat: no-repeat;
     width: 20px;
@@ -30,7 +30,7 @@ header {
     cursor: pointer;
 }
 .toggle.active {
-    background: url('/public/img/icon/icon-x-white.svg');
+    background: url('../public/img/icon/icon-x-white.svg');
     filter: invert(1);
     background-repeat: no-repeat;
 }
