@@ -21,7 +21,7 @@ h2 {
     font-weight: 600;
 }
 .bg {
-    background: url('/public/img/afternoon.jpg');
+    background: url('../public/img/afternoon.jpg');
     position: absolute;
     background-size: cover;
     width: 100%;
