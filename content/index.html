@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Welcome To My Portfolio</title>
+</head>
+<body>
+    <section class="projectList">
+
+        <div class="bg"></div>
+
+        <h1>Hello!</h1>
+        <h2>Here you'll find some of my projects</h2>
+
+        <ul class="projectsList">
+            <li id="img1"><a href="/time-focus-lp/content/time-and-focus.html"><img src="./public/img/icon/icon-star-off.svg" alt="icon start off"> Time & Focus</a></li>
+            <li id="img2"><a href="/time-focus-lp/content/video.html"><img src="./public/img/icon/icon-star-off.svg" alt="icon start off"> Video</a></li>
+        </ul>
+
+    </section>
+
+    <script>
+        const img1 = document.getElementById('img1')
+        
+        img1.addEventListener( 'mouseover', () => {
+            document.querySelector ( '#img1 a img').src = './public/img/icon/icon-star-on.svg'
+        } )
+        img1.addEventListener( 'mouseout', () => {
+            document.querySelector ( '#img1 a img').src = './public/img/icon/icon-star-off.svg'
+        } )
+        img2.addEventListener( 'mouseover', () => {
+            document.querySelector ( '#img2 a img').src = './public/img/icon/icon-star-on.svg'
+        } )
+        img2.addEventListener( 'mouseout', () => {
+            document.querySelector ( '#img2 a img').src = './public/img/icon/icon-star-off.svg'
+        } )
+        
+    </script>
+</body>
+</html>
